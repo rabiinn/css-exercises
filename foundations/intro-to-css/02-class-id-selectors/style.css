@@ -1,0 +1,16 @@
+.pink {
+    background-color: #c47985;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    font-size: 24px
+}
+#ids {
+    color: #350be0d2;
+    font-size: 36px;
+}
+
+#ids.adjust-font-size{
+    background-color: #00ff48;
+    font-size: 24px;
+    font-weight: bold;
+
+}
